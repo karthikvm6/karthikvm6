@@ -9,7 +9,7 @@
 - 📝 I regularly write articles on [ihcia](ihcia)
 - 📫 How to reach me **karthikvm6@gmail.com**
 - 📄 Know about my experiences [Link](link)
-- ⚡ Fun fact **hiudiah**
+- ⚡ Fun fact **Chai tastes way better than coffee!**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikvm6&label=Profile%20views&color=0e75b6&style=flat" alt="karthikvm6" /> </p>
 
