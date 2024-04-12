@@ -11,7 +11,7 @@
 - 📝 I regularly write articles on [ihcia](ihcia)
 - 💬 Ask me about **JS, React**
 - 📫 How to reach me **karthikvm6@gmail.com**
-- 📄 Know about my experiences (resume)
+- 📄 Know about my experiences [resume](resume)
 - ⚡ Fun fact **hiudiah**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikvm6&label=Profile%20views&color=0e75b6&style=flat" alt="karthikvm6" /> </p>
