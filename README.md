@@ -3,13 +3,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **jbiuca**
-- 🌱 I’m currently learning **oihdiuhsc**
-- 👯 I’m looking to collaborate on **cniushcas**
-- 🤝 I’m looking for help with **jhdiuad**
+- 🌱 I’m currently learning **Front-End Development**
+- 🤝 I’m looking for help with **JavaScript,ReactJS**
 - 👨‍💻 All of my projects are available at [bciuwb](bciuwb)
 - 📝 I regularly write articles on [ihcia](ihcia)
-- 💬 Ask me about **JS, React**
 - 📫 How to reach me **karthikvm6@gmail.com**
 - 📄 Know about my experiences [Link](link)
 - ⚡ Fun fact **hiudiah**
