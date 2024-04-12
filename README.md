@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikvm6&label=Profile%20views&color=0e75b6&style=flat" alt="karthikvm6" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikvm6" alt="karthikvm6" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/karthikvm18" target="blank"><img src="https://img.shields.io/twitter/follow/karthikvm18?logo=twitter&style=for-the-badge" alt="karthikvm18" /></a> </p>
 
 - 🔭 I’m currently working on **jbiuca**
