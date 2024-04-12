@@ -3,26 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikvm6&label=Profile%20views&color=0e75b6&style=flat" alt="karthikvm6" /> </p>
 
-<p align="left"> <a href="https://twitter.com/karthikvm18" target="blank"><img src="https://img.shields.io/twitter/follow/karthikvm18?logo=twitter&style=for-the-badge" alt="karthikvm18" /></a> </p>
-
 - 🔭 I’m currently working on **jbiuca**
-
 - 🌱 I’m currently learning **oihdiuhsc**
-
 - 👯 I’m looking to collaborate on **cniushcas**
-
 - 🤝 I’m looking for help with **jhdiuad**
-
 - 👨‍💻 All of my projects are available at [bciuwb](bciuwb)
-
 - 📝 I regularly write articles on [ihcia](ihcia)
-
 - 💬 Ask me about **JS, React**
-
 - 📫 How to reach me **karthikvm6@gmail.com**
-
 - 📄 Know about my experiences [hiuha](hiuha)
-
 - ⚡ Fun fact **hiudiah**
 
 <h3 align="left">Connect with me:</h3>
