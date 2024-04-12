@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Karthik V M</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
