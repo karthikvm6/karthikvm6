@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthik V M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikvm6&label=Profile%20views&color=0e75b6&style=flat" alt="karthikvm6" /> </p>
-
 - 🔭 I’m currently working on **jbiuca**
 - 🌱 I’m currently learning **oihdiuhsc**
 - 👯 I’m looking to collaborate on **cniushcas**
@@ -13,6 +11,8 @@
 - 📫 How to reach me **karthikvm6@gmail.com**
 - 📄 Know about my experiences [hiuha](hiuha)
 - ⚡ Fun fact **hiudiah**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikvm6&label=Profile%20views&color=0e75b6&style=flat" alt="karthikvm6" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
