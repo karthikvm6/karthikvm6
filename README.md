@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Front-End Development**
 - 🤝 I’m looking for help with **JavaScript,ReactJS**
-- 👨‍💻 All of my projects are available at [bciuwb](bciuwb)
-- 📝 I regularly write articles on [ihcia](ihcia)
 - 📫 How to reach me **karthikvm6@gmail.com**
 - 📄 Know about my experiences [Link](link)
 - ⚡ Fun fact **Chai tastes way better than coffee!**
